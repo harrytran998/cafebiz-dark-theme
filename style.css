@@ -1,0 +1,56 @@
+#form1 {
+    background-color: #282c35;
+}
+
+.wp980 {
+    background-color: #282c35;
+}
+
+.borderhome {
+  background-color: #282c35 !important;
+}
+
+.noibat .noibat1 h2, .noibat .noibat2 h2 {
+    background-color: #F06292;
+    color: #fff;
+}
+.fl {
+    background-color: #282c35;
+}
+
+.listtimeline ul li h3 a {
+    color: #ffa7c4;
+}
+
+.noibat .normal h2 a {
+    color: #ffa7c4;
+}
+
+.noibat span.labelbrand, .tin-noi-bat span.labelbrand {
+    color: #FFC107;
+}
+
+.khungdetail .totalcontentdetail {
+    background-color: #282c35;
+}
+
+.listtimeline ul li p.cate a {
+    color: #aad866;
+}
+.listtimeline ul li p span.time {
+    color: #5577b5;
+}
+.listtimeline ul l {
+    border-bottom: none;
+}
+.borderhome .contentleft {
+    border-right: none;
+}
+.borderhome {
+    border: none;
+}
+
+.listtimeline ul li.boxnhung .boxnhungslide {
+    background: none;
+    border-top: 1px solid #2196F3;
+}
