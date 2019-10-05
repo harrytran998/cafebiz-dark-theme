@@ -1,3 +1,71 @@
+.outsite-topmenu {
+    background-color: #ffa7c4;
+    border-bottom: none;
+}
+.menu {
+    background-color: #ffa7c4;
+}
+.menu ul li a {
+ color: #2c3442;   
+}
+
+.noibat .noibat2 {
+     background-color: #ffa7c4;
+    font-size: 13px;
+}
+
+.noibat .noibat2 p {
+     font-size: 16px;
+}
+.wrap_header {
+    background-color: #282c35;
+}
+
+#tinmoi .time {
+    color: #aad866;
+}
+#tinmoi li {
+    border-bottom: 1px dotted #ccc;
+}
+
+.chisovamucphu .mucphu a {
+    color: #282c35;
+    background: #ffa7c4;
+    font-weight: bold;
+}
+
+ul#nav li.site .web, ul#nav li.menuright, ul#nav li a.guitinnhanhtop, ul#nav li a.lienhe {
+    color: #282c35;
+}
+
+.nhipdapthitruong {
+     background-color: #ffa7c4;
+}
+.nhipdapthitruong .item h3 a {
+    color: #282c35;
+}
+.nhipdapthitruong .xemchitietdcb {
+    color: #282c35;
+}
+
+.mostview h3 {
+    background-color: #ffa7c4;
+}
+.mostview h3 span {
+     color: #1565C0;
+    font-weight: bold
+}
+
+.docnhieuandcauchuyenthuonghieu .thuonghieur .tab {
+     color: #ffa7c4;
+}
+
+.docnhieuandcauchuyenthuonghieu {
+    background-color: #ffa7c4;
+    
+}
+
+
 #form1 {
     background-color: #282c35;
 }
@@ -10,13 +78,22 @@
   background-color: #282c35 !important;
 }
 
+
 .noibat .noibat1 h2, .noibat .noibat2 h2 {
-    background-color: #F06292;
+    background-color: #ffa7c4;
     color: #fff;
 }
+.noibat .noibat2 p {
+    color: #282c35;
+}
+
+
 .fl {
     background-color: #282c35;
 }
+
+
+
 
 .listtimeline ul li h3 a {
     color: #ffa7c4;
